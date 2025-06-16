@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Title</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=windows-1251">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=7,8,edge" />
+    <style>
+      svg{
+        fill: green;
+      }
+    </style>
+  </head>
+  <body>
+    <svg src="IMG_0562.svg" alt="" fill="#ffff00"></svg>
+    
+    <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 -1 823.0000000000001 947.0956875414956" width="300" height="345">
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<path id="Shape 4 copy" fill-rule="evenodd" class="s0" d="m163 391.6c0-146.9 118.7-265.6 265.6-265.6 146.8 0 265.5 118.7 265.5 265.6 0 120.6-80 222.2-190 254.7 14.8-38.7 22.9-80.8 22.9-124.8 0-94.5-37.5-180.2-98.5-242.9-58.6 62.5-94.5 146.7-94.5 239.4 0 45.9 8.8 89.8 24.8 129.9-112.9-30.6-195.8-133.6-195.8-256.3z"/>
+			<path id="Shape 4 copy" fill-rule="evenodd" class="s1" d="m432.3 761c-31.1-32.3-56.1-70.7-73-113.1 22.2 6 45.6 9.2 69.7 9.2 26.3 0 51.6-3.8 75.5-10.8-16.4 43-41.1 81.8-72.2 114.7z"/>
+		</g>
+	</g>
+</svg>
+  </body>
+</html>
