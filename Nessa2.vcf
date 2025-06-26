@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.5//EN
+N:;Nessa2;;;
+FN:Nessa2
+TEL;type=WORK;type=VOICE;type=pref:+256 753 410 015
+TEL;type=HOME;type=VOICE:+256 773 292 227
+TEL;type=CELL;type=VOICE:+256 778 126 752
+item1.TEL:+256 707 351 068
+item1.X-ABLabel:Kati
+item2.TEL:+256 705 662 825
+item2.X-ABLabel:Ray
+item3.TEL:+256 783 905 350
+item3.X-ABLabel:Nelly
+item4.TEL:+256 751 243 810
+item4.X-ABLabel:heartix
+item5.TEL:+256 740 340 629
+item5.X-ABLabel:Keil 
+item6.TEL:+256 780 219 382
+item6.X-ABLabel:Liz
+item7.TEL:+256 757 702 580
+item7.X-ABLabel:Hannah
+item8.TEL:+256 786 239 729
+item8.X-ABLabel:Prince
+item9.TEL:+256 744 063 716
+item9.X-ABLabel:Ronnie
+item10.TEL:0753 943 599
+item10.X-ABLabel:Mine
+END:VCARD
